@@ -22,18 +22,20 @@
     "url": "https://dm.vern.cc",
     "icon": "https://icons.duckduckgo.com/ip3/dm.vern.cc.ico",
     "slug": "dm-vern-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1793,
     "timeDay": 261,
     "timeWeek": 1793,
     "timeMonth": 1793,
     "timeYear": 1793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-30": 1
+    }
   },
   {
     "name": "dumb.lunar.icu",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dumb.privacydev.net.ico",
     "slug": "dumb-privacydev-net",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.29%",
     "uptimeDay": "97.83%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 858,
     "timeDay": 1195,
     "timeWeek": 858,
@@ -108,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-30": 777,
+      "2024-04-30": 1157,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 339
