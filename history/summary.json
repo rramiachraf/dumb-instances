@@ -28,9 +28,9 @@
     "url": "https://dm.vern.cc",
     "icon": "https://icons.duckduckgo.com/ip3/dm.vern.cc.ico",
     "slug": "dm-vern-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "92.93%",
-    "uptimeDay": "85.61%",
+    "uptimeDay": "85.56%",
     "uptimeWeek": "89.49%",
     "uptimeMonth": "92.21%",
     "uptimeYear": "92.93%",
@@ -40,7 +40,7 @@
     "timeMonth": 1113,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2024-06-16": 207,
+      "2024-06-16": 208,
       "2024-06-14": 407,
       "2024-06-12": 32,
       "2024-06-10": 27,
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-06-16": 648,
+      "2024-06-16": 655,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 648,
+      "2024-06-16": 655,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
