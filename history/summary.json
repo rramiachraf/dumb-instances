@@ -37,7 +37,7 @@
     "time": 866,
     "timeDay": 999,
     "timeWeek": 1059,
-    "timeMonth": 1060,
+    "timeMonth": 1070,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2024-06-21": 76,
@@ -87,10 +87,10 @@
     "url": "https://dumb.lunar.icu",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.lunar.icu.ico",
     "slug": "dumb-lunar-icu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "74.92%",
-    "uptimeWeek": "96.42%",
+    "uptimeDay": "74.88%",
+    "uptimeWeek": "96.41%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "98.45%",
     "time": 437,
@@ -99,7 +99,7 @@
     "timeMonth": 459,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-06-21": 362,
+      "2024-06-21": 363,
       "2024-06-01": 574,
       "2024-05-31": 292
     }
@@ -141,7 +141,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-06-21": 1100,
+      "2024-06-21": 1135,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-21": 1100,
+      "2024-06-21": 1135,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
