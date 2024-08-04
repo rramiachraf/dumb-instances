@@ -138,9 +138,9 @@
     "url": "https://dumb.privacydev.net",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.privacydev.net.ico",
     "slug": "dumb-privacydev-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -150,6 +150,7 @@
     "timeMonth": 3209,
     "timeYear": 2053,
     "dailyMinutesDown": {
+      "2024-08-04": 1,
       "2024-08-02": 21,
       "2024-04-30": 31
     }
@@ -171,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-08-04": 327,
+      "2024-08-04": 402,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
@@ -285,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-04": 327,
+      "2024-08-04": 402,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
