@@ -4,9 +4,9 @@
     "url": "https://dumb.ducks.party",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.ducks.party.ico",
     "slug": "dumb-ducks-party",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "95.48%",
+    "uptimeDay": "95.44%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.94%",
@@ -16,7 +16,7 @@
     "timeMonth": 926,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-08-16": 65,
+      "2024-08-16": 66,
       "2024-08-15": 57,
       "2024-08-13": 28,
       "2024-07-29": 45,
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-08-16": 1092,
+      "2024-08-16": 1113,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-16": 1092,
+      "2024-08-16": 1113,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
