@@ -1,7 +1,7 @@
 url: https://dumb.lunar.icu
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2024-08-31T23:18:46.393Z
+status: down
+code: 502
+responseTime: 319
+lastUpdated: 2024-09-01T18:31:32.955Z
 startTime: 2024-04-27T18:20:15.275Z
 generator: Upptime <https://github.com/upptime/upptime>
