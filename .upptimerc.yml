@@ -4,39 +4,20 @@ repo: dumb-instances # The name of this repository
 
 sites:
     - name: dumb.ducks.party
-    url: https://dumb.ducks.party
+      url: https://dumb.ducks.party
     - name: dumb.privacydev.net
-    url: https://dumb.privacydev.net
+      url: https://dumb.privacydev.net
     - name: dumb.hyperreal.coffee
-    url: https://dumb.hyperreal.coffee
+      url: https://dumb.hyperreal.coffee
     - name: dm.vern.cc
-    url: https://dm.vern.cc
+      url: https://dm.vern.cc
     - name: dumb.lunar.icu
-    url: https://dumb.lunar.icu
+      url: https://dumb.lunar.icu
     - name: dumb.privacyfucking.rocks
-    url: https://dumb.privacyfucking.rocks
+      url: https://dumb.privacyfucking.rocks
     - name: sing.whatever.social
-    url: https://sing.whatever.social
+      url: https://sing.whatever.social
     - name: dumb.bloat.cat
-    url: https://dumb.bloat.cat
+      url: https://dumb.bloat.cat
     - name: dumb.gitro.xyz
-    url: https://dumb.gitro.xyz
-
-
-# status-website:
-#   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-#   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   #cname: demo.upptime.js.org
-#   # baseUrl: /your-repo-name
-#   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-#   name: Upptime
-#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-#   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-#   navbar:
-#     - title: Status
-#       href: /
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      url: https://dumb.gitro.xyz
