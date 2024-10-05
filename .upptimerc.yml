@@ -3,18 +3,25 @@ owner: rramiachraf # Your GitHub organization or username, where this repository
 repo: dumb-instances # The name of this repository
 
 sites:
-  - name: dumb.ducks.party
+    - name: dumb.ducks.party
     url: https://dumb.ducks.party
-  - name: dm.vern.cc
-    url: https://dm.vern.cc
-  - name: dumb.lunar.icu
-    url: https://dumb.lunar.icu
-  - name: dumb.privacydev.net
+    - name: dumb.privacydev.net
     url: https://dumb.privacydev.net
-  - name: dumb.privacyfucking.rocks
+    - name: dumb.hyperreal.coffee
+    url: https://dumb.hyperreal.coffee
+    - name: dm.vern.cc
+    url: https://dm.vern.cc
+    - name: dumb.lunar.icu
+    url: https://dumb.lunar.icu
+    - name: dumb.privacyfucking.rocks
     url: https://dumb.privacyfucking.rocks
-  - name: sing.whatever.social
+    - name: sing.whatever.social
     url: https://sing.whatever.social
+    - name: dumb.bloat.cat
+    url: https://dumb.bloat.cat
+    - name: dumb.gitro.xyz
+    url: https://dumb.gitro.xyz
+
 
 # status-website:
 #   # Add your custom domain name, or remove the `cname` line if you don't have a domain
