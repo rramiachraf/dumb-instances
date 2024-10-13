@@ -61,19 +61,19 @@
     "url": "https://dumb.hyperreal.coffee",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.hyperreal.coffee.ico",
     "slug": "dumb-hyperreal-coffee",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 502,
-    "timeDay": 268,
-    "timeWeek": 408,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 713,
+    "timeDay": 1436,
+    "timeWeek": 683,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-10-13": 1
+      "2024-10-13": 11
     }
   },
   {
@@ -221,7 +221,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-10-13": 273,
+      "2024-10-13": 285,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -405,7 +405,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-13": 273,
+      "2024-10-13": 285,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -612,7 +612,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-10-13": 273,
+      "2024-10-13": 285,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
