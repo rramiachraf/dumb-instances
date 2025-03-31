@@ -60,7 +60,7 @@
     "timeMonth": 1096,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2025-03-31": 1071,
+      "2025-03-31": 1078,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -113,9 +113,9 @@
     "url": "https://dumb.hyperreal.coffee",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.hyperreal.coffee.ico",
     "slug": "dumb-hyperreal-coffee",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "93.25%",
     "uptimeYear": "98.36%",
@@ -125,6 +125,7 @@
     "timeMonth": 634,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2025-03-27": 54,
       "2025-03-25": 56,
       "2025-03-21": 663,
@@ -146,9 +147,9 @@
     "slug": "dm-vern-cc",
     "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "97.36%",
     "time": 715,
     "timeDay": 258,
@@ -156,7 +157,6 @@
     "timeMonth": 505,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-03-31": 12,
       "2025-03-27": 78,
       "2025-02-28": 97,
       "2025-02-27": 73,
@@ -224,7 +224,7 @@
       "2024-12-07": 90,
       "2024-12-06": 88,
       "2024-12-05": 84,
-      "2024-12-04": 17
+      "2024-12-04": 35
     }
   },
   {
@@ -236,7 +236,7 @@
     "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.12%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "97.92%",
     "time": 487,
     "timeDay": 518,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2025-03-31": 1071,
+      "2025-03-31": 1078,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-03-31": 1071,
+      "2025-03-31": 1078,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -964,7 +964,7 @@
     "uptime": "77.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.13%",
+    "uptimeMonth": "44.12%",
     "uptimeYear": "77.24%",
     "time": 486,
     "timeDay": 0,
@@ -972,7 +972,7 @@
     "timeMonth": 446,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-03-31": 1071,
+      "2025-03-31": 1078,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
