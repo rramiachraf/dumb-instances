@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 1479,
     "dailyMinutesDown": {
-      "2025-05-02": 1303,
+      "2025-05-02": 1315,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-05-02": 1303,
+      "2025-05-02": 1315,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -710,7 +710,7 @@
     "timeMonth": 0,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-05-02": 1303,
+      "2025-05-02": 1315,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1032,19 +1032,19 @@
     "url": "https://dumb.bloat.cat",
     "icon": "https://icons.duckduckgo.com/ip3/dumb.bloat.cat.ico",
     "slug": "dumb-bloat-cat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 790,
-    "timeDay": 1238,
-    "timeWeek": 805,
-    "timeMonth": 753,
+    "timeDay": 1064,
+    "timeWeek": 795,
+    "timeMonth": 752,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-05-02": 0,
+      "2025-05-02": 12,
       "2025-02-27": 16,
       "2024-10-14": 154
     }
@@ -1066,7 +1066,7 @@
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-05-02": 1303,
+      "2025-05-02": 1315,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
